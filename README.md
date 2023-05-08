@@ -20,5 +20,7 @@ https://portfolio-rho-two-31.vercel.app/
 If you want to get in touch with me, you can do so through my LinkedIn:
 
 LinkedIn: https://www.linkedin.com/in/juan-andr%C3%A9s-carmona-le%C3%B3n-52a378261/
+
 Email:juancarmona3090@gmail.com
+
 Thanks for visiting my GitHub profile!
